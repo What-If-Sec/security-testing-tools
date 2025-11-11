@@ -78,3 +78,8 @@ Always get explicit permission before searching or testing domains you do not ow
 - Combine operators (e.g., `site:` + `filetype:` + `intext:`) to refine searches and reduce noise.  
 - Always document findings with the date, query used, and remediation status.  
 
+---
+
+## Resources
+* [Google Hacking Databse](https://www.exploit-db.com/google-hacking-database) - A comprehnsicve list of Google dork queries used in the wild.
+* [Google Advanced Search Operators](https://support.google.com/websearch/answer/2466433) - Official documentation for search syntax 
