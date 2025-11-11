@@ -81,5 +81,5 @@ Always get explicit permission before searching or testing domains you do not ow
 ---
 
 ## Resources
-* [Google Hacking Databse](https://www.exploit-db.com/google-hacking-database) - A comprehnsicve list of Google dork queries used in the wild.
+* [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) - A comprehnsicve list of Google dork queries used in the wild.
 * [Google Advanced Search Operators](https://support.google.com/websearch/answer/2466433) - Official documentation for search syntax 
