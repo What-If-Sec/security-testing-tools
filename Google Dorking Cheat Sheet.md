@@ -14,7 +14,7 @@ Always get explicit permission before searching or testing domains you do not ow
 
 ---
 
-### Basic Operators
+### Dorks
 
 | Operator | Description | Example |
 |-----------|-------------|----------|
